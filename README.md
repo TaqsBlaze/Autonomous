@@ -18,6 +18,7 @@ chmod +x install-tools.sh setup-android-SDK.sh setup-flutter-SDK.sh
 ```
 
 ### ✅ Requirements
+- Debian based system
 - zsh shell  
 - A Unix-based system (Linux/macOS)  
 - `curl` and `wget` installed (for downloading dependencies)  
