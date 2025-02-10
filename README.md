@@ -17,7 +17,8 @@ chmod +x install-tools.sh setup-android-SDK.sh setup-flutter-SDK.sh
 ./setup-flutter-SDK.sh
 ```
 
-### ✅ Requirements  
+### ✅ Requirements
+- zsh shell  
 - A Unix-based system (Linux/macOS)  
 - `curl` and `wget` installed (for downloading dependencies)  
 - Sufficient disk space for SDK installations  
